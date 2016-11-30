@@ -1,6 +1,6 @@
 # Canvas to Image npm  Module #
 
-A reimplementation of the Canvas2Image client side javascript library for node.
+A reimplementation of the Canvas2Image client side javascript library for npm.
 
 https://github.com/hongru/canvas2image
 

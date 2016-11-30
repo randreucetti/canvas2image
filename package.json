@@ -1,6 +1,6 @@
 {
   "name": "canvas2image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A npm module version of the canvas2image script developed by https://github.com/hongru",
   "main": "canvas2image.js",
   "repository": {

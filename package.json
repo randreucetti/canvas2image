@@ -2,19 +2,19 @@
   "name": "canvas2image",
   "version": "1.0.4",
   "description": "A npm module version of the canvas2image script developed by https://github.com/hongru",
-  "main": "index.js",
+  "main": "canvas2image.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kyledmw/canvas-to-image-node.git"
+    "url": "git+https://github.com/randreucetti/canvas2image.git"
   },
   "keywords": [
     "canvas2image",
-    "npm",
+    "npm"
   ],
-  "author": "Kyle Williamson",
+  "author": "Ross Andreucetti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kyledmw/canvas-to-image-node/issues"
+    "url": "https://github.com/randreucetti/canvas2image/issues"
   },
-  "homepage": "https://github.com/Kyledmw/canvas-to-image-node#readme"
+  "homepage": "https://github.com/randreucetti/canvas2image#readme"
 }
